@@ -29,3 +29,6 @@ Hey! This is a super simple script for your FiveM server. Basically, every hour,
 
 ---
 Feel free to change or improve anything! If you break it, you get to keep both pieces :) 
+
+
+This Code %100 Free Do Not Sell İt
