@@ -25,7 +25,7 @@ Hey! This is a super simple script for your FiveM server. Basically, every hour,
 
 ## Notes
 - The code has some weird spacing and random comments, just like a real person might do if they're in a hurry or learning.
-- Made by Ened
+- Made by Vena
 
 ---
 Feel free to change or improve anything! If you break it, you get to keep both pieces :) 
